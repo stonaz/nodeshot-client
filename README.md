@@ -1,0 +1,2 @@
+nodeshot-client
+===============
